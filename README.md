@@ -1,4 +1,4 @@
-#Colorize Keys
+# Colorize Keys
 
 The objective of this project is to color the keys of a piano based on an input melody. The details on the installation and usage of the code will be updated shortly.
 Coloring of the keys is done on a static high resolution image of the piano taken from top. The key shapes are extracted from the image and using OPENCV the key is colored
