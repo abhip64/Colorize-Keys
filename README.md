@@ -5,7 +5,7 @@ Coloring of the keys is done on a static high resolution image of the piano take
 and blended with the original image of the keyboard. The melody is obtained in the form of MIDI file. The MIDI file will be read and the appropriate keys will be colored.
 
 ## Usage
-Run the piano_color.py file after setting up all the dependencies
+Run the piano_color.py file after setting up all the dependencies. The output file will be saved in the same folder
 
 ## Limitations
 * The extraction of the image of each of the keys of the keyboard is done manually. It would be great to extract the images using some image processing technique
